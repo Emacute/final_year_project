@@ -5,4 +5,4 @@ streamlit==1.10.0
 streamlit_option_menu==0.3.2
 tensorflow==2.9.0rc0
 scipy==1.8.0
-sqlite3==2.6.0
+pysqlite3==0.4.7
